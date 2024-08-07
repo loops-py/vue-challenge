@@ -21,9 +21,9 @@ But please consider the following:
 - The axios actions should be called from a vuex store and the data should be handled by a vuex module.
 - Try making the app responsive is plausible.
 - The app should be able to handle errors (even if its just `console.error`).
-- The styling of the page is not the most important part of the project, but how the diff frameworks are used in the app and how clean/managed your code is.
 - This is a code challenge not a design one, so feel free to add as many or as little detail as you like as long as the
 page flows work and the data is handled correctly.
+- Be sure that favorite page is persitent... you can use any method that you prefeer (DB, LocalStorage, etc)
 
 
 Fork this repo and work on you own repo as that would be the repo we will be reviewing.
